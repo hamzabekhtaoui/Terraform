@@ -1,4 +1,5 @@
 #Git Clone on My Pc
+#Use Git Pull
 provider "aws" {
   region  = "eu-west-1"
   profile = "DeepRacer"
