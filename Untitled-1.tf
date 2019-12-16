@@ -1,6 +1,4 @@
-#My First Merge
-#My First Commit
-#2
+#Git Clone on My Pc
 provider "aws" {
   region  = "eu-west-1"
   profile = "DeepRacer"
